@@ -24,3 +24,9 @@ print({9.8, 3.14, 2.7})
 print("\n")
 print("Dictionary")
 print({'nombre':'Luis'})
+
+import math
+x1, y1 = 2, 3
+x2, y2 = 10, 8
+distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+print("Euclidean distance:",distance)

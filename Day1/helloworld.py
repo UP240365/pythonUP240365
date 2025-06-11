@@ -6,6 +6,11 @@ print(3/4)
 print(3**4)
 print(3//4)
 
+print("Luis")
+print("Olmos")
+print("Mexico")
+print("I am enjoying 30 days of python")
+
 print(type(10))
 print(type(9.8))
 print(type(3.14))
