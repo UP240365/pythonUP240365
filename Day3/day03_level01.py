@@ -1,8 +1,8 @@
 import math 
 #1-3
-age=(18)
-altura=(1.83)
-complex_number=(6 + 3j)
+age=int(18)
+altura=float(1.83)
+complex_number=complex(6 + 3j)
 #4
 base=int(input("Ingrese la base del triangulo:"))
 height=int(input("Ingrese la altura del triangulo:"))

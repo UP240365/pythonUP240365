@@ -1,3 +1,4 @@
+#1
 print("Integer")
 print(6)
 print("\n")
@@ -24,7 +25,7 @@ print({9.8, 3.14, 2.7})
 print("\n")
 print("Dictionary")
 print({'nombre':'Luis'})
-
+#2
 import math
 x1, y1 = 2, 3
 x2, y2 = 10, 8
