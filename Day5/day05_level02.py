@@ -30,3 +30,5 @@ min_avg=abs(min-avg)
 max_avg=abs(max-avg)
 print("The value of min - average is ",min_avg)
 print("And the value of max - average is",max_avg)
+print(min_avg==max_avg)
+
